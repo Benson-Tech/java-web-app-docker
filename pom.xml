@@ -101,7 +101,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Aldi Releases Nexus Repository</name>
@@ -112,7 +112,7 @@
 	      <name>Aldi Snapshot Nexus Repository </name>
 	      <url>http://3.71.28.138:8181/mylandmarktech/repository/aldi-snapshots/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<plugins>
